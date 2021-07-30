@@ -1,14 +1,14 @@
 1. Pass in the following to clone the repo to your local:
 
-`git clone https://github.com/mexmanny/urlshortenerservice.git`
+    `git clone https://github.com/mexmanny/urlshortenerservice.git`
 
 2. Change directory to `urlshortenerservice` by passing:
 
-`cd urlshortenerservice`
+    `cd urlshortenerservice`
 
 3. Create virtual environment by passing the following:
 
-`python -m venv testenv` (you can change *testenv* to any other name you would want to use for your virtual environment)
+    `python -m venv testenv` (you can change *testenv* to any other name you would want to use for your virtual environment)
 
 4. Activate virtual environment by passing:
 
