@@ -25,7 +25,8 @@
     
     If you see something like the image below you are good to go and use the service:
     
-https://github.com/mexmanny/urlshortenerservice/blob/main/screenshots/Shortener_View.png
+![Shortener_View](https://user-images.githubusercontent.com/20760707/127619553-eb203c59-37fe-40af-b8e8-85379192266b.png)
+
 
 10. Enter the url you would need to shorten and click the shorten button to receive a shortened url
 
